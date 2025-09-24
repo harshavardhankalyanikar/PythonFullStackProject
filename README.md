@@ -104,8 +104,8 @@ SUPABASE_KEY=your_anon_key_here
 
 
 **Example:**
-SUPABASE_URL="https://vzvpajinyayotjttgbhd.supabase.co"
-SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ6dnBhamlueWF5b3RqdHRnYmhkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTgwODIyNjAsImV4cCI6MjA3MzY1ODI2MH0.W1hJg6EIkwXWja5jRuZohLBmb5cImMOL1DkXlxmFaY0"
+SUPABASE_URL="https://abcd.supabase.co"
+SUPABASE_KEY="sacyhtvgrytuyrebeVESEU66VCYCVTDXXYTUtrjtyreyvtu"
 
 ### 5. Run the Application
 
