@@ -91,7 +91,7 @@ CREATE TABLE comment (
     post_id INTEGER NOT NULL REFERENCES post(id) ON DELETE CASCADE
 );
 ...
-3. **Get Your Credentials:
+3. **Get Your Credentials**:
 
 
 ### 4. Configure Environment Variables
