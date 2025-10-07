@@ -1,8 +1,9 @@
 import streamlit as st
 import requests
 import time
+import os
 
-API_URL = "http://127.0.0.1:8000"  # FastAPI backend URL
+API_URL = os.getenv("API_URL", "http://127.0.0.1:8000")
 
 st.set_page_config(page_title="Social Media Network", page_icon="🌐")
 st.title("🌐 Social Media Network")
